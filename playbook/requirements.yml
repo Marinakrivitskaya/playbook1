@@ -8,3 +8,8 @@
   scm: git
   version: "1.0.0"
   name: kibana-role
+
+- src: https://github.com/Marinakrivitskaya/elastic-role.git
+  scm: git
+  version: "1.0.0"
+  name: elastic-role
